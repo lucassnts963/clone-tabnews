@@ -1,20 +1,22 @@
 function Home() {
   return (
-    <>
-      <h1>
-        Você é um amigo sensacional, saiba que o dia que precisar pode contar
-        comigo!
-      </h1>
+    <div>
+      <h1>Bíblia Tab</h1>
       <p>
-        Escolhi você para enviar essa simples mensagem, nesse formato diferente.
-        Além de mim, saiba que Deus é o seu maior amigo, você pode contar com
-        ele 24hrs por dia 7 dias por semana. Deus te abençoe sempre
+        Estou neste exato momento construindo um novo local na internet para os{" "}
+        <strong>cristãos</strong> que desejam consumir conteúdos com{" "}
+        <strong>valor concreto</strong>. Estou seguindo o um interessante modelo
+        utilizado, utilizado no TabNews que é um site focado na comunidade da
+        área de tecnologia, destinado a debates e troca de conhecimentospor meio
+        de publicações e comentários criados pelos próprios usuários. Caso tenha
+        interesse de conhecer um pouco mais sobre a estratégia adotada pelo
+        TabNews que estou tentando adaptar para a comunidade cristã segue o
+        link.{" "}
+        <a href="https://www.tabnews.com.br/filipedeschamps/tentando-construir-um-pedaco-de-internet-mais-massa">
+          [clique aqui]
+        </a>
       </p>
-      <p>
-        Além de mim, saiba que Deus é o seu maior amigo, você pode contar com
-        ele 24hrs por dia 7 dias por semana. Deus te abençoe sempre!
-      </p>
-    </>
+    </div>
   );
 }
 
